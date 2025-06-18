@@ -121,7 +121,7 @@ function SimpleForm() {
       </form>
     </div>
     <div class="col-md-6 image-container">
-      {/* Content for the image side, like a logo or a background image */}
+      
     </div>
   </div>
 </div>
